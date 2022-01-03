@@ -30,7 +30,7 @@
                     <ul>
                         <li class="font-small">
                             <i class="fas fa-phone"></i>
-                            <span>+381 65/518-3225</span>
+                            <span>+381 60/123-4567</span>
                         </li>
                         <li class="font-small">
                             <i class="fas fa-envelope"></i>
