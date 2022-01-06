@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>http://mobishop.epizy.com/index.php</loc>
+      <loc>http://php1.bojanmaksimovic.com/index.php</loc>
       <lastmod>2021-03-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://mobishop.epizy.com/devices.php</loc>
+      <loc>http://php1.bojanmaksimovic.com/devices.php</loc>
       <lastmod>2021-03-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
    </url><url>
-      <loc>http://mobishop.epizy.com/contact.php</loc>
+      <loc>http://php1.bojanmaksimovic.com/contact.php</loc>
       <lastmod>2021-03-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
    </url><url>
-      <loc>http://mobishop.epizy.com/author.php</loc>
+      <loc>http://php1.bojanmaksimovic.com/author.php</loc>
       <lastmod>2021-03-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url><url>
-      <loc>http://mobishop.epizy.com/cart.php</loc>
+      <loc>http://php1.bojanmaksimovic.com/cart.php</loc>
       <lastmod>2021-03-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
