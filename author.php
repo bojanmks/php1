@@ -44,7 +44,7 @@
                     <br/>
                     <p class="font-small">The way I look at it, a front-end developer's role is to combine design and business logic to achieve a user-facing product. To do this successfully, a wide skill set is necessary to produce a quality user experience that leads to meeting business goals, and I guarantee I've got exactly what's needed.</p>
                     <div class="portfolioLink">
-                        <a href="https://bokule.github.io/portfolio/" target="_blank" class="font-small uppercase btnPrimary">Portfolio</a>
+                        <a href="https://bojanmaksimovic.com/" target="_blank" class="font-small uppercase btnPrimary">Portfolio</a>
                     </div>
                 </div>
             </div>
